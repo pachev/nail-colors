@@ -8,6 +8,8 @@ var fallCollection2016 = [
   "Yank My Doodle",
   "Freedom of Peach",
   "Squeaker of the House",
+  "Mean and Green",
+  "Ice Blue",
   "Shh…It’s Top Secret",
   // "Madam President", // 10/25/16
   "OPI by Popular Vote",
